@@ -1,0 +1,77 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 27/04/2025 21:08
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.12
+WORDPRESS:	6.7.2
+PHP INFO:	8.2.27 | SAPI: fpm-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: [10] not allowed 
+PHP MAX MEMORY: 4294967296 (192M default) 
+MEMORY STACK: 36MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:13 | filtered:0 | create:13
+FILTERED: []
+SQL CREATED: 20250427_diversident_827c4bdf2d21a5424363_20250427210733_database.sql
+SQL FILE SIZE: 6.4MB (6708011)
+SQL FILE TIME: 2025-04-27 21:08:10
+SQL RUNTIME: 0.18 seg.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /usr/home/diversident.es/web
+ARCHIVE FILE: 20250427_diversident_827c4bdf2d21a5424363_20250427210733_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	101.48MB
+STATS:	Dirs 621 | Files 4,754
+SQL ADDED: 20250427_diversident_827c4bdf2d21a5424363_20250427210733_database.sql
+ZipArchive Object
+(
+    [lastId] => 5374
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5375
+    [filename] => /usr/home/diversident.es/web/wp-content/backups-dup-lite/tmp/20250427_diversident_827c4bdf2d21a5424363_20250427210733_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 5374
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 47.75MB
+ARCHIVE RUNTIME: 8.90 seg.
+MEMORY STACK: 38MB
+building installer
+[PHP ERR][WARN] MSG:is_readable(): open_basedir restriction in effect. File(/dev/urandom) is not within the allowed path(s): (/usr/home/diversident.es/:/home/diversident.es/:/usr/home/services/:/usr/share/php82/) [CODE:2|FILE:/usr/home/diversident.es/web/wp-content/plugins/duplicator/classes/class.password.php|LINE:65]
+do_action('wp_ajax_duplicator_package_build'), WP_Hook->do_action, WP_Hook->apply_filters, duplicator_package_build, DUP_Package->runZipBuild, DUP_Installer->build, DUP_Installer->create_enhanced_installer_files, DUP_Installer->create_archive_config_file, DUP_PasswordHash->HashPassword, DUP_PasswordHash->get_random_bytes, is_readable, DUP_Handler::error, DUP_Handler::getMessage
+PRUEBA DE CONSISTENCIA DEL ARCHIVO: SUPERADA
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 6.4MB
+INSTALLER FILE: 73.49KB
+ARCHIVE FILE: 49.61MB 
+RECUENTO ARCHIVOS/DIRECTORIOS ESPERADOS: 5,375
+RECUENTO ARCHIVOS/DIRECTORIOS ACTUALES: 5,374
+PRUEBA DE CONSISTENCIA DEL ARCHIVO: Superado
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 10.08 seg.
+PEAK PHP MEMORY USED: 55.95MB
+DONE PROCESSING => 20250427_diversident 27/04/2025 21:08
+
