@@ -127,7 +127,7 @@ Página de inicio (home.png): ![Inicio](screenshots/home.png)
 
 Sección "Sobre nosotros" (about.png): ![Sobre nosotros](screenshots/about.png)
 
-Formulario de contacto (contact.png): ![Sobre nosotros](screenshots/about.png)
+Formulario de contacto (contact.png): ![Contacto](screenshots/contact.png)
 
 ---
 
