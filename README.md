@@ -9,6 +9,14 @@ Este repositorio contiene una copia de la web `diversident.es` implementada en W
 
 ---
 
+## 🦷 ¿Qué es Diversident.es?
+
+Diversident.es es una página web desarrollada con WordPress que simula ser el sitio oficial de una clínica dental. Su propósito es representar los servicios, valores y contacto de una empresa dedicada al cuidado bucodental, con un diseño limpio, profesional y moderno.
+
+Este proyecto ha sido realizado como trabajo académico por un grupo de estudiantes del ciclo formativo de Higiene Bucodental, con el objetivo de aplicar sus conocimientos tanto en diseño web como en comunicación digital dentro del ámbito sanitario. La página no solo sirve como ejercicio técnico, sino también como propuesta realista de sitio corporativo para una clínica dental.
+
+---
+
 ## 📂 Estructura del repositorio
 
 ```
